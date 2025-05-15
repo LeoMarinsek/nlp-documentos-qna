@@ -1,0 +1,10 @@
+flask
+flask-cors
+transformers
+torch
+spacy
+fitz
+pymupdf
+numpy
+pandas
+requests

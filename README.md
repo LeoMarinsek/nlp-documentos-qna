@@ -107,6 +107,4 @@ Execute os notebooks em ordem de 01 até 05.
 
 ## 👨‍💻 Autor
 
-**Seu Nome Aqui**  
-Desenvolvedor com foco em IA | NLP | Python | Flask | Hugging Face  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+**Leonardo Thomaz Marinsek**  
